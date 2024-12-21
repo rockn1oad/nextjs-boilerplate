@@ -9,7 +9,7 @@ export default function Home() {
 
         <div className="flex gap-4 items-center flex-col sm:flex-row px-3">
           <nav className="uppercase flex gap-10">
-            <button>Artist</button>
+            <button className="border-b-4 border-white">Artist</button>
             <button>Releases</button>
             <button>Schedual</button>
           </nav>
